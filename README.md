@@ -2,7 +2,7 @@
 
 //Programa que mostra ao usuario opção de alimentos
 
- String alimento;
+     String alimento;
 		
 		Scanner entradaDados = new Scanner(System.in);
 		
@@ -27,7 +27,7 @@
     
    //Programa que da ao usuario o poder de escolhe de 3 frutas, e em cada caso diz se há disponibilidade ou não
  
-  String fruta;
+     String fruta;
 		
 		Scanner entradaDados = new Scanner(System.in);
 		 
