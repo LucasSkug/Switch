@@ -25,7 +25,7 @@
 		}
     
     
-    //Programa que da ao usuario o poder de escolhe de 3 frutas, e em cada caso diz se há disponibilidade ou não
+   //Programa que da ao usuario o poder de escolhe de 3 frutas, e em cada caso diz se há disponibilidade ou não
  
   String fruta;
 		
@@ -51,7 +51,7 @@
 		}
     
     
-    //Programa que mostra ao usuario 4 tipos de modelos automotivos e oq eu acontece quando ele escolhe algum
+   //Programa que mostra ao usuario 4 tipos de modelos automotivos e oq eu acontece quando ele escolhe algum
     
     String carro;
 		
